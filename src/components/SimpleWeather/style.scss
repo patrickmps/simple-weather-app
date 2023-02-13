@@ -1,0 +1,78 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 27.5rem;
+  height: 35rem;
+  background: linear-gradient(179.15deg, #801A00 0.73%, #1C1C1C 69.52%);
+  border-radius: 30px;
+  padding: 0 3rem;
+
+  .line-city {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    h1 {
+      color: #fff;
+      font-weight: 700;
+      font-size: 2rem;
+    }
+
+    img {
+      height: 2rem;
+      width: 3rem;
+      margin-left: 10px;
+    }
+
+  }
+
+  .weather {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    margin: 1.5rem 0 4rem 0;
+
+    #wheater-desc {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      
+      strong {
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-transform: capitalize;
+      }
+    }
+
+    #temp {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+
+      p {
+        font-size: 0.9rem;
+      }
+
+      strong {
+        font-weight: 800;
+        font-size: 4.5rem;
+      }
+    }
+  }
+
+  .line-info {
+    width: 100%;
+    color: #fff;
+    
+    
+    h2{
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+    
+  }
+}

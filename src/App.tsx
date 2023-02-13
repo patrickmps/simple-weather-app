@@ -1,5 +1,5 @@
+import './global.scss'
 import { SimpleWeather } from "./components/SimpleWeather";
-
 
 function App() {
 
