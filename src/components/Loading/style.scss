@@ -1,0 +1,31 @@
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 27.5rem;
+  background: linear-gradient(179.15deg, #1C1C1C 0.73%, #1C1C1C 69.52%);
+  border-radius: 30px;
+  padding: 1.5rem 3rem;
+
+  span {
+    height: 3rem;
+    width: 3rem;
+    border: 5px solid #4d4d4d;
+    border-top-color: #fff;
+    border-radius: 50%;
+    animation: is-rotating 1.5s infinite;
+
+    @keyframes is-rotating {
+      to {
+        transform: rotate(2turn);
+      }
+    }
+  }
+
+  h1 {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  
+}

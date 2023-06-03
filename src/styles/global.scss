@@ -6,10 +6,31 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+#main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+}
+
+footer {
+  color: #fff;
+  justify-self: flex-end;
+  a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 800;
+    transition: all 0.3s;
+    &:hover{
+      color: #cecece;
+    }
+  }
 }
 
 @media (max-width: 1080px) {
