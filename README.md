@@ -9,7 +9,6 @@
 
 Acesse [aqui a aplicação](https://patrickmps.github.io/simple-weather-app).
 
-<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 ## Tecnologias
 
