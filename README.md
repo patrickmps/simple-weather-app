@@ -2,12 +2,22 @@
 
 # ⚡Simple Weather App ☀️
 
+
+Apresento o projeto frontend que criei com o objetivo de aprimorar minhas habilidades em ReactJS e TypeScript, aprendendo a consumir uma API. Neste projeto, utilizei a API da Open Weather para exibir informações meteorológicas em tempo real de diferentes localidades. Com uma interface intuitiva e responsiva, os usuários podem pesquisar por cidades e obter informações sobre as condições climáticas, como temperatura, umidade, velocidade do vento e visibilidade.
+
 <div style="display: inline-block;">
- <img height="350em" src="" />
- 
+ <img height="350em" src="https://github.com/patrickmps/simple-weather-app/assets/58093259/0aed7065-7f61-404f-b844-92fc1ab426d3" />
+ <img height="350em" src="https://github.com/patrickmps/simple-weather-app/assets/58093259/79fd0834-4e89-4467-9eda-6cf53132acb4" />
 </div>
 
-Acesse [aqui a aplicação](https://patrickmps.github.io/simple-weather-app).
+Acesse [aqui o projeto](https://patrickmps.github.io/simple-weather-app/).
+
+## Template
+A UI do projeto foi desenvolvida por mim no Figma.
+
+Acesse [aqui o template](https://www.figma.com/file/8eP5x3vplpot9F6FIyu3bU/Weather?type=design&node-id=0%3A1&t=KpMJzAgVLhkdlAJ7-1).
+
+<img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
 ## Tecnologias
